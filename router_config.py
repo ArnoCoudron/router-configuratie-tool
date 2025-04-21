@@ -7,6 +7,8 @@ my_routers = [
 "username":"ehbadmin", "Password":"Test789"},
 {"Hostname":"Router 4", "MGMT_IP_Adres":"10.10.10.4", "Banner":"",
 "username":"ehbroot", "Password":"Test0973"}
+{"Hostname":"Router 5", "MGMT_IP_Adres":"10.10.10.5", "Banner":"",
+ "username":"ehbadmin", "Password":"Test999"}
 ]
 
 def connect_to_router(router):
